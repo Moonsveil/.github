@@ -6,9 +6,13 @@ Moonsveil is a versatile team that creates a wide range of products, including g
 
 `Stay connected with Moonsveil and be the first to know about our latest updates and releases.`
 
-##
+## Donation
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/T6T713LX42)
+
+## Social
 - Website : Unavailable
 - Discord : https://discord.gg/arvZCMJ7vG
+- Kofi : https://ko-fi.com/moonsveil
 - Twitter : Unavailable
 - Email : Unavailable
 
